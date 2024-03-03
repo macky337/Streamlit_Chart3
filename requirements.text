@@ -53,4 +53,3 @@ validators==0.22.0
 watchdog==4.0.0
 yahoo-finance-api2==0.0.12
 zipp==3.17.0
-matplotlib
